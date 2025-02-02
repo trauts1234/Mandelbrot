@@ -21,7 +21,7 @@ To get started with the Chess Engine, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/trauts1234/chess_engine_v6.git
+   git clone https://github.com/trauts1234/Mandelbrot.git
    cd Mandelbrot
    ```
 
