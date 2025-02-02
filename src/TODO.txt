@@ -1,0 +1,6 @@
+time managment
+optimise null move pruning, possibly on longer time controls
+relative history heuristic
+re-use SEE
+internal iterative deepening
+close to 50 move rule is a draw
