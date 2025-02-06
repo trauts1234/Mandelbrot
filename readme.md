@@ -9,10 +9,12 @@ Below is a list of key features currently supported by the engine:
 - **UCI support**
 - **Bitboards**
 - **NNUE-like neural network**
+- **Aspiration windows**
 - **Late move reductions**
 - **Null move pruning**
 - **Search Extensions**
 - **Transposition table**
+- **Killer moves + History heuristic**
 - **Legal move generator:** runs at ~210M nps
 
 ## Installation
